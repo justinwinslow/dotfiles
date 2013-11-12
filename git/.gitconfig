@@ -27,4 +27,4 @@
   branch = magenta
 
 [core]
-  excludesfile = ~/.gitignore
+  excludesfile = $HOME/.gitignore
