@@ -3,7 +3,7 @@ local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 
 PROMPT='%{$fg[$NCOLOR]%}%n%{$reset_color%}@%{$fg[cyan]%}$SHORT_HOST\
 %{$reset_color%} in %{$fg[white]%}%~\
-$(git_prompt_info) ♫ \
+$(git_prompt_info) %{$fg[yellow]%}♫%{$reset_color%} \
 
 %{$fg[white]%}%(!.#.»)%{$reset_color%} '
 PROMPT2='%{$fg[white]%}\ %{$reset_color%}'
