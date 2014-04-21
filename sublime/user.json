@@ -1,0 +1,26 @@
+{
+  "caret_extra_width": 1,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Predawn/predawn.tmTheme",
+  "font_face": "Source Code Pro",
+  "font_options":
+  [
+    "no_round"
+  ],
+  "font_size": 11,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "scroll_past_end": true,
+  "tab_size": 2,
+  "theme": "predawn.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false,
+  "preview_on_click": false,
+  "draw_minimap_border": true,
+  "tabs_medium": true,
+  "indent_guide_options": ["draw_active", "draw_normal"]
+}
